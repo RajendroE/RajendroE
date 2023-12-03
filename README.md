@@ -13,8 +13,7 @@ Welcome to my GitHub profile. I'm passionate about GoLang and DevOps, and I'm cu
 
 Here are some of the projects I'm working on:
 
-- [Project 1](link-to-project1): Brief description of the project.
-- [Project 2](link-to-project2): Brief description of the project.
+- [Project 1][(link-to-project1)](https://github.com/engrotech/protean): Payment Handeler.
 
 ## Get in Touch
 
