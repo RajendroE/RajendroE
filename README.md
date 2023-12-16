@@ -19,8 +19,8 @@ Here are some of the projects I'm working on:
 
 - 📧 Email: [rajendro.sau@engro.io](mailto:rajendro.sau@engro.io)
 - 📞 Phone: [+91 8250771252](tel:+918250771252)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/rajendro-sau-05326314a)
-
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rajendro-sau-05326314a)
+- 
 Feel free to explore my repositories and connect with me. Let's collaborate and learn together!
 
 
